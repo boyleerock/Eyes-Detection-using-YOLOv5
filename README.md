@@ -1,1 +1,1 @@
-# Eyes-Detection-using-YOLOv5
+# Eyes-Detection-YOLOv5
